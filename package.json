@@ -1,0 +1,21 @@
+{
+  "name": "koa-traditional-bio",
+  "version": "0.1.0",
+  "description": "Koa, sequelize and relational database",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "npm run watch",
+    "watch": "nodemon $npm_package_main"
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yandongxu/koa-traditional-bio.git"
+  },
+  "author": "dongxu@me.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/yandongxu/koa-traditional-bio/issues"
+  },
+  "homepage": "https://github.com/yandongxu/koa-traditional-bio#readme"
+}
